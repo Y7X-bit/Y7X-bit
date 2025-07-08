@@ -124,7 +124,7 @@ Wanna vibe, collab, or just talk tech, music, or spicy food?
 
 - 📫 **Email**: [yugankcode@gmail.com](mailto:yugankcode@gmail.com)
 - 🐙 **GitHub**: [github.com/Y7X-bit](https://github.com/Y7X-bit)
-- 📷 **Instagram**: [@a_96540](https://instagram.com/a_96540)
+- 📷 **Instagram**: [@a_96540](https://instagram.com/c_96540)
 - 💬 **Discord**: y7x_bit
 - ❌ **X (formerly Twitter)**: [@yugank59](https://x.com/yugank59)
 - 👽 **Reddit**: [u/Intrepid_Nature_5142](https://www.reddit.com/user/Intrepid_Nature_5142)
