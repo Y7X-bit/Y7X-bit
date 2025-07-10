@@ -1,6 +1,6 @@
 ## ⚡ TL;DR — Who TF Is Y7X?
 
-- 🧠 *Kinda too smart for this age bracket* — not even trying 😌  
+- 🧠 *Kinda too smart for this age bracket* — not even trying 
 - 📱 Rooted Android since 6th grade — stock UI? Never met her.  
 - 💻 Running dev tools on a Mac 💀 — not my choice (hi dad)  
 - 🎧 Audiophile life since age 6 — max bass, max emotion, max soul  
