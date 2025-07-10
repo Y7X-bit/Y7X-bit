@@ -1,6 +1,27 @@
-## Hi there! 👋
+## ⚡ TL;DR — Who TF Is Y7X?
 
-👋 Yo! I'm **Y7X** — the definition of *built different* 😜  
+- 🧠 *Kinda too smart for this age bracket* — not even trying 😌  
+- 📱 Rooted Android since 6th grade — stock UI? Never met her.  
+- 💻 Running dev tools on a Mac 💀 — not my choice (hi dad)  
+- 🎧 Audiophile life since age 6 — max bass, max emotion, max soul  
+- 🛠️ I tweak everything — systems, workflows, behavior… even BIOS if needed  
+- 🎮 Casual gamer with AAA dreams — Mac says no, I say “soon”  
+- 🧠 1000+ AI tools bookmarked — I collect tools like Infinity Stones  
+- 🧪 Automation addict — if it’s repeatable, I’ve scripted it  
+- ✨ UI flow is a *feeling* — I know when it’s off, even if I can’t code the fix yet  
+- 👾 Hacked a few online games in lockdown — lowkey legendary arc  
+- 🌐 Shenzhen is the dream — custom rigs, custom life, no limits  
+- 🇩🇪 Learning German because I get bored speaking one language  
+- 🤖 Always reading docs, breaking rules, and building smarter paths  
+- 🧒 Lil cousin has better horror taste than 99% of the internet — facts
+ 
+> **Powered by Y7X 💗**
+
+---
+
+## 👋 Hi there!
+
+Yo! I'm **Y7X** — the definition of *built different* 😜  
 Rooted Android since 2018, audiophile since age 6, lowkey a hacker (left), highkey underrated, and completely obsessed with customizing life one system at a time.
 
 ---
@@ -18,8 +39,6 @@ Rooted Android since 2018, audiophile since age 6, lowkey a hacker (left), highk
 Music hypes me, heals me, motivates me, and gives me direction when nothing else can.
 
 🎨 **Art & vibes enthusiast** — Haven’t built a UI from scratch, but trust me, I know the blueprint. It’s all about the feel, the aesthetic, and that smooth user flow.
-
-🌶️ **Spicy food? My personality.** If it doesn’t burn, it doesn’t belong.  
 
 🚗 **Cars > Bikes** forever.  
 
@@ -57,12 +76,10 @@ I don’t copy trends — I customize them.
 I'm not just "into tech" — I *am* tech.  
 And trust me, the world hasn’t seen anything yet.
 
----
-
 _“Rooted in chaos. Boosted by bass. Fueled by passion. Built by fire.”_  
- **Powered by Y7X 💗**
+**Powered by Y7X 💗**
 
-## 
+---
 
 ## 📌 About Me
 
@@ -79,7 +96,6 @@ Currently 17, I’ve already gone through:
 Beyond tech:
 - 🎨 I’m big on aesthetics and vibes. Haven’t built full UIs yet, but I know the flow, structure, and how to make something feel right.
 - 🎬 Huge fan of animation — nothing hits quite like it. And for IRL? High school dramas with spicy twists hit different.
-- 🌶️ I survive on spicy food and crave car culture (bikes? not for me).
 - 🧒 Shoutout to my lil cousin who introduced me to Chilla’s Art and Fears to Fathom — absolute bangers.
 - 🕹️ And my dad’s a real one — showed me Empire Earth in his prime. GOAT move.
 
@@ -89,45 +105,18 @@ I'm not just here to code — I’m here to create, customize, and leave a mark.
 
 ---
 
-## Skills & Technologies
-
-git,github,mongodb,anaconda,androidstudio,apple,discord,django,dynamodb,emotion,figma,gmail,instagram,kotlin,linkedin,md,materialui,lua,mysql,notion,py,swift,twitter,obsidian,vscode,windows
-
-## Top Projects
-
-- [JobScraper](https://github.com/Y7X-bit/JobScraper) - A tool for scraping job listings. ⭐ 0 | Language: Python
-- [VoidScraper](https://github.com/Y7X-bit/VoidScraper) - A web scraper for various data sources. ⭐ 0 | Language: Python
-- [atmosynk](https://github.com/Y7X-bit/atmosynk) - A synchronization tool for atmospheric data. ⭐ 0 | Language: Python
-- [Typingo](https://github.com/Y7X-bit/Typingo) - A typing practice application. ⭐ 0 | Language: Python
-- [stock-predictor-pro](https://github.com/Y7X-bit/stock-predictor-pro) - A stock price prediction tool. ⭐ 0 | Language: Python
-
-## GitHub Stats
-
-📊 **Public Repositories:** 27  
-👥 **Followers:** 0  
-➕ **Following:** 0  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Y7X-bit&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Created [JobScraper](https://github.com/Y7X-bit/JobScraper)  
-- Created [VoidScraper](https://github.com/Y7X-bit/VoidScraper)  
-- Created [atmosynk](https://github.com/Y7X-bit/atmosynk)  
-- Created [Typingo](https://github.com/Y7X-bit/Typingo)  
-- Created [stock-predictor-pro](https://github.com/Y7X-bit/stock-predictor-pro)
-
-## Connect with Me
-
 ## 🌐 Connect with Me
 
 Wanna vibe, collab, or just talk tech, music, or spicy food?
 
-- 📫 **Email**: [yugankcode@gmail.com](mailto:yugankcode@gmail.com)
-- 🐙 **GitHub**: [github.com/Y7X-bit](https://github.com/Y7X-bit)
-- 📷 **Instagram**: [@a_96540](https://instagram.com/c_96540)
-- 💬 **Discord**: y7x_bit
-- ❌ **X (formerly Twitter)**: [@yugank59](https://x.com/yugank59)
+- 📫 **Email**: [yugankcode@gmail.com](mailto:yugankcode@gmail.com)  
+- 🐙 **GitHub**: [github.com/Y7X-bit](https://github.com/Y7X-bit)  
+- 📷 **Instagram**: [@c_96540](https://instagram.com/c_96540)  
+- 💬 **Discord**: `y7x_bit`  
+- ❌ **X (formerly Twitter)**: [@yugank59](https://x.com/yugank59)  
 - 👽 **Reddit**: [u/Intrepid_Nature_5142](https://www.reddit.com/user/Intrepid_Nature_5142)
+
+---
 
 ## ASCII Art
 
