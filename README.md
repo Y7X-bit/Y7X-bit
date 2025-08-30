@@ -1,16 +1,15 @@
 ## ⚡ TL;DR — Who TF Is Y7X?
 
-- 🧠 *Kinda too smart for this age bracket* — not even trying 
-- 📱 Rooted Android since 6th grade — stock UI? Never met her.  
-- 💻 Running dev tools on a Mac 💀 — not my choice (hi dad)  
-- 🎧 Audiophile life since age 6 — max bass, max emotion, max soul  
-- 🛠️ I tweak everything — systems, workflows, behavior… even BIOS if needed  
-- 🎮 Casual gamer with AAA dreams — Mac says no, I say “soon”  
-- 🧠 1000+ AI tools bookmarked — I collect tools like Infinity Stones  
-- 🧪 Automation addict — if it’s repeatable, I’ve scripted it  
-- ✨ UI flow is a *feeling* — I know when it’s off, even if I can’t code the fix yet  
-- 👾 Hacked a few online games in lockdown — lowkey legendary arc  
-- 🌐 Shenzhen is the dream — custom rigs, custom life, no limits  
+- 🧠 *Kinda too smart for this age bracket* not even trying 
+- 📱 Rooted Android since 6th grade stock UI? Never met her.  
+- 💻 Running dev tools on a Mac 💀 not my choice (hi dad)  
+- 🎧 Audiophile life since age 6  
+- 🛠️ I tweak everything systems, workflows, behavior… even BIOS if needed  
+- 🎮 Casual gamer with AAA dreams Mac says no, I say “soon”  
+- 🧠 1000+ AI tools bookmarked I collect tools like Infinity Stones
+- ✨ UI flow is a *feeling* I know when it’s off, even if I can’t code the fix yet  
+- 👾 Hacked a few online games in lockdown lowkey legendary arc isnt it cool
+- 🌐 Shenzhen is the dream 
 - 🇩🇪 Learning German because I get bored speaking one language  
 - 🤖 Always reading docs, breaking rules, and building smarter paths  
 - 🧒 Lil cousin has better horror taste than 99% of the internet — facts
