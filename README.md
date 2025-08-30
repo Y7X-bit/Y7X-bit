@@ -34,14 +34,14 @@ Rooted Android since 2018, audiophile since age 6, lowkey a hacker (left), highk
 - Max volume. When needed.  
 - Bass boosted until my soul shakes.  
 - Emotional songs when I’m in the feels.  
-- **YT Music > Spotify** — and I’ll fight anyone who disagrees 🤡😜  
+- **YT Music > Spotify** and I’ll fight anyone who disagrees 🤡😜  
 Music hypes me, heals me, motivates me, and gives me direction when nothing else can.
 
-🎨 **Art & vibes enthusiast** — Haven’t built a UI from scratch, but trust me, I know the blueprint. It’s all about the feel, the aesthetic, and that smooth user flow.
+🎨 **Art & vibes enthusiast** Haven’t built a UI from scratch, but trust me, I know the blueprint. It’s all about the feel, the aesthetic, and that smooth user flow.
 
 🚗 **Cars > Bikes** forever.  
 
-🎬 **Animation** runs my world — the detail, the expression, the escape. If it’s live-action, gimme high school drama with a twist or I’m out.
+🎬 **Animation** runs my world the detail, the expression, the escape. If it’s live-action, gimme high school drama with a twist or I’m out.
 
 🧠 **Tech brain activated 24/7**  
 - 1000s of AI tools bookmarked.  
@@ -56,26 +56,26 @@ Not naming the games, but let’s just say… respect was earned. People knew. I
 
 🧒 **Lil cousin moment:**  
 My lil cousin (like 5–6 years younger than me 😭) put me on to **Chilla's Art** and **Fears to Fathom** — yup, she’s got insane taste.  
-And way back in his prime, my dad was out here introducing me to **Empire Earth** — the OG of OGs 💀
+And way back in his prime, my dad was out here introducing me to **Empire Earth** the OG of OGs 💀
 
-🎮 **Gamer with a dream** – currently vibing with NFS & Supercell titles, but longing to enter the world of AAA games.  
+🎮 **Gamer with a dream** currently vibing with NFS & Supercell titles, but longing to enter the world of AAA games.  
 Mac holding me back (thanks dad), but that won’t last forever.
 
 💭 **Shenzhen Dream:**  
-One day, unlimited money in hand, I’m walking into Shenzhen like it’s my second home — buying parts, building rigs, living the tech life to the fullest.
+One day, unlimited money in hand, I’m walking into Shenzhen like it’s my second home buying parts, building rigs, living the tech life to the fullest.
 
 ---
 
 ### 🔥 THE ENERGY I BRING
 
-I don't wait for the future — I make it.  
+I don't wait for the future I make it.  
 I break rules, reverse engineer them, and rebuild better.  
-I don’t copy trends — I customize them.
+I don’t copy trends I customize them.
 
 I'm not just "into tech" — I *am* tech.  
 And trust me, the world hasn’t seen anything yet.
 
-_“Rooted in chaos. Boosted by bass. Fueled by passion. Built by fire.”_  
+“Rooted in chaos. Boosted by bass. Fueled by passion. Built by fire.”_  
 **Powered by Y7X 💗**
 
 ---
@@ -89,18 +89,18 @@ Currently 17, I’ve already gone through:
 - 💻 Rocking a Mac (by force 😭), still making it run like an Android dev machine
 - 🎧 A lifelong passion for music, especially bass-heavy emotional tracks at full volume  
 - 🎮 Casual gamer into NFS, Supercell, and wishing for AAA titles (Mac pain 😩)
-- 🧠 Constant tech research — I’ve bookmarked 1000+ AI tools and actively stay updated
+- 🧠 Constant tech research I’ve bookmarked 1000+ AI tools and actively stay updated
 - 🇩🇪 Currently learning German just for the love of knowledge and challenge
 
 Beyond tech:
 - 🎨 I’m big on aesthetics and vibes. Haven’t built full UIs yet, but I know the flow, structure, and how to make something feel right.
-- 🎬 Huge fan of animation — nothing hits quite like it. And for IRL? High school dramas with spicy twists hit different.
+- 🎬 Huge fan of animation nothing hits quite like it. And for IRL? High school dramas with spicy twists hit different.
 - 🧒 Shoutout to my lil cousin who introduced me to Chilla’s Art and Fears to Fathom — absolute bangers.
-- 🕹️ And my dad’s a real one — showed me Empire Earth in his prime. GOAT move.
+- 🕹️ And my dad’s a real one showed me Empire Earth in his prime. GOAT move.
 
 Whether it's hacking (back in the 2020 era), learning new tech, tweaking workflows, or just vibing to music, I’m always exploring, building, and optimizing.
 
-I'm not just here to code — I’m here to create, customize, and leave a mark.
+I'm not just here to code I’m here to create, customize, and leave a mark.
 
 ---
 
