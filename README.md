@@ -20,7 +20,7 @@
 
 ## 👋 Hi there!
 
-Yo! I'm **Y7X** — the definition of *built different* 😜  
+Yo! I'm **Y7X** the definition of *built different* 😜  
 Rooted Android since 2018, audiophile since age 6, lowkey a hacker (left), highkey underrated, and completely obsessed with customizing life one system at a time.
 
 ---
