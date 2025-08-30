@@ -12,7 +12,7 @@
 - 🌐 Shenzhen is the dream 
 - 🇩🇪 Learning German because I get bored speaking one language  
 - 🤖 Always reading docs, breaking rules, and building smarter paths  
-- 🧒 Lil cousin has better horror taste than 99% of the internet — facts
+- 🧒 Lil cousin has better horror taste than 99% of the internet
  
 > **Powered by Y7X 💗**
 
@@ -55,7 +55,7 @@ In 8th grade, I hacked 2–3 server-based games and earned massive underground c
 Not naming the games, but let’s just say… respect was earned. People knew. It was legendary.
 
 🧒 **Lil cousin moment:**  
-My lil cousin (like 5–6 years younger than me 😭) put me on to **Chilla's Art** and **Fears to Fathom** — yup, she’s got insane taste.  
+My lil cousin (like 5–6 years younger than me 😭) put me on to **Chilla's Art** and **Fears to Fathom** yup, she’s got insane taste.  
 And way back in his prime, my dad was out here introducing me to **Empire Earth** the OG of OGs 💀
 
 🎮 **Gamer with a dream** currently vibing with NFS & Supercell titles, but longing to enter the world of AAA games.  
@@ -72,10 +72,10 @@ I don't wait for the future I make it.
 I break rules, reverse engineer them, and rebuild better.  
 I don’t copy trends I customize them.
 
-I'm not just "into tech" — I *am* tech.  
+I'm not just "into tech" I *am* tech.  
 And trust me, the world hasn’t seen anything yet.
 
-“Rooted in chaos. Boosted by bass. Fueled by passion. Built by fire.”_  
+“Rooted in chaos. Boosted by bass. Fueled by passion. Built by fire.”
 **Powered by Y7X 💗**
 
 ---
